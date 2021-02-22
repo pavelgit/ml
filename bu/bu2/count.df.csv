@@ -1,0 +1,1615 @@
+"","X..i..","freq"
+"1","Zahnarzthelfer,in",14
+"2","Verfahrensmechaniker,in",17
+"3","Bürokaufmann,frau",110
+"4","CAD-Konstrukteur,in",6
+"5","Pizzabäcker,in",2
+"6","Analyst,in",17
+"7","Kranken- und Altenpfleger,in",32
+"8","Servicetechniker,in",25
+"9","Versicherungskaufmann,frau",48
+"10","Sachbearbeiter,in (sonstige)",115
+"11","Auszubildende,r (Bankkaufmann,-kauffrau)",26
+"12","Student,in (Betriebswirtschaftslehre)",111
+"13","Industriekaufmann,frau",122
+"14","Student,in (Rechtswissenschaften)",41
+"15","Wirtschafts-, REFA-Ingenieur,in",2
+"16","Außendienstangestellte,r",33
+"17","Projektmanager,in",120
+"18","Lehrer,in (sonstige)",30
+"19","Fachinformatiker,in",77
+"20","Wirtschaftsjurist,in",15
+"21","Innenarchitekt,in",4
+"22","Serviceberater,in",10
+"23","Erzieher,in",127
+"24","Finanzbeamter,beamtin",23
+"25","Mechatroniker,in",61
+"26","Ausbilder,in, kaufmännisch",9
+"27","Versicherungsfachmann,frau",24
+"28","Fachkrankenpfleger,in",8
+"29","Elektrofacharbeiter,in",4
+"30","Montageschlosser,in",4
+"31","Energieelektroniker,in (Anlagen-, Betriebstechnik)",7
+"32","Informatiker,in",113
+"33","Brandmeister,in",7
+"34","Abteilungsleiter,in",42
+"35","Media-Planer,in",3
+"36","Berater,in (EDV)",42
+"37","Produktmanager,in",72
+"38","Automatentechniker,in",9
+"39","Friseurmeister,in",15
+"40","Analytiker,in (EDV)",1
+"41","Auszubildende,r (Mediengestalter,in Digital und Print)",3
+"42","Student,in (Medizin)",64
+"43","Fertigungssteuerer,in",3
+"44","Betriebsingenieur,in",6
+"45","Student,in (sonstige)",41
+"46","Operationsschwester",14
+"47","Reisebürokaufmann,frau",3
+"48","Auszubildende,r (Industriekaufmann,-kauffrau)",14
+"49","Arzthelfer,in",47
+"50","Wissenschaftliche,r Mitarbeiter,in",64
+"51","CNC-Einrichter,in",2
+"52","Einkäufer,in",35
+"53","Dozent,in (EDV)",2
+"54","Lehramtsanwärter,in",40
+"55","Softwareentwickler,in",176
+"56","Taxifahrer,in",6
+"57","Auszubildende,r (Verkäufer,in)",1
+"58","Assistenzarzt,ärztin",35
+"59","Elektrotechniker,in",53
+"60","Erziehungswissenschaftler,in",5
+"61","Auszubildende,r (Maler,in und Lackierer,in)",6
+"62","Vermessungsingenieur,in",6
+"63","Projektingenieur,in",36
+"64","Vertriebsbeauftragte,r",9
+"65","Hausfrau,mann",15
+"66","Verwaltungsbeamter,beamtin bei Ländern",7
+"67","Logistiker,in",26
+"68","Sekretär,in",25
+"69","Personalentwickler,in",17
+"70","Kinderpfleger,in",13
+"71","Anlagenmechaniker,in (Versorgungstechnik)",11
+"72","Physiotherapeut,in",91
+"73","Architekt,in",30
+"74","Arzt,Ärztin (Humanmedizin ohne besondere Gefährdung)",85
+"75","Wirtschaftsassistent,in",6
+"76","Verlader,in",2
+"77","Verwaltungsfachkraft, öffentlicher Dienst",21
+"78","Energieelektroniker,in Betriebstechnik",7
+"79","Schreiner,in",11
+"80","Student,in (Wirtschaftswissenschaften)",39
+"81","Kaufmann,frau (EDV)",12
+"82","Beamtenanwärter,in",11
+"83","Student,in (Germanistik)",3
+"84","Lehrer,in",53
+"85","Kfz-Mechaniker,in",54
+"86","Kranfahrer,in",6
+"87","Finanzwirt,in",9
+"88","Technische,r Direktor,in",1
+"89","Betriebselektriker,in",6
+"90","Kraftfahrer,in",46
+"91","KFZ-, Zweiradmechaniker,in",6
+"92","Elektrotechnikingenieur,in",19
+"93","Geologe,Geologin",15
+"94","Aktuar,in",4
+"95","Metallarbeiter,in",11
+"96","Be",1
+"97","IT-Consultant",102
+"98","Systemadministrator,in (EDV)",20
+"99","Investitionsberater,in",8
+"100","Ernährungsberater,in",2
+"101","Managementassistent,in",2
+"102","Ingenieur,in des Maschinen-, Apparate- und Fahrzeugtechnik",106
+"103","Applikationsingenieur,in",9
+"104","IT-Berater,in",79
+"105","Ingenieur,in (EDV)",31
+"106","Betriebswirtschaftliche,r Assistent,in",2
+"107","Betriebswirt,in, staatlich geprüft",29
+"108","Student,in (Soziologie)",11
+"109","Manager,in (EDV)",7
+"110","Gebietsleiter,in",2
+"111","Metallblasinstrumenten- und Schlagzeugmacher,in",3
+"112","Lagerfacharbeiter,in",15
+"113","Bankangestellte,r",35
+"114","Maurer,in",22
+"115","Heimerzieher,in",6
+"116","Schüler,in",98
+"117","Sozialversicherungsfachangestellte,r",12
+"118","Bauingenieur,in",68
+"119","Mathematiker,in",15
+"120","Auszubildende,r (Elektroniker,in für Betriebstechnik)",3
+"121","Tischlergehilfe,gehilfin",2
+"122","Anlagenelektroniker,in",7
+"123","Handelsvertreter,in",13
+"124","Logistikmanager,in",10
+"125","Monteur,in",19
+"126","Kreditfachmann,frau",3
+"127","Tischler,in",27
+"128","Industriearbeiter,in",4
+"129","Konditor,in",3
+"130","Notariatsangestellte,r",4
+"131","Hebamme",4
+"132","Feuerwehrtechnische,r Beamter,Beamtin",2
+"133","Industrieanlagenelektroniker,in",5
+"134","Servicedienstleister,in",5
+"135","Druckermeister,in",5
+"136","Ingenieur,in (sonstige)",80
+"137","Student,i",3
+"138","Industrieelektriker,in",7
+"139","Automobilkaufmann,frau",29
+"140","Bankkaufmann,frau",106
+"141","Sanitäter,in",4
+"142","Student,in (Soziale Arbeit)",10
+"143","Auszubildende,r (Sonstige)",19
+"144","Grundschullehrer,in",27
+"145","Industrieelektroniker,in",11
+"146","Optiker,in",1
+"147","Erzieher,in am Arbeitsplatz",22
+"148","Diplom-Ingenieur,in Bauingenieurwesen allg.",9
+"149","Fliesen-, Platten- und Mosaikleger,in",11
+"150","Datenbankadministrator,in",4
+"151","Buchhalter,in",40
+"152","Maschinenbautechniker,in",28
+"153","Postzusteller,in",30
+"154","Krankenpfleger,in",36
+"155","Projektleiter,in",69
+"156","Stadt- und Regionalplaner,in",3
+"157","Diätassistent,in",2
+"158","Manager,in",31
+"159","Bibliothekar,in",3
+"160","Ergotherapeut,in",18
+"161","Kaufmann,frau (sonstige)",28
+"162","Kaufmann,frau Bürokommunikation",39
+"163","Vertriebsdirektor,in",4
+"164","Küchenleiter,in",6
+"165","Elektriker,in",38
+"166","Verwalter,in (EDV)",2
+"167","Gärtner,in",12
+"168","Elektroenergieanlageninstallateur,in",1
+"169","Metallbaumeister,in",4
+"170","Arzt,in (Veterinärmedizin)",4
+"171","Textilverkäufer,in",2
+"172","Unternehmensberater,in",97
+"173","Sozialpädagoge,pädagogin",27
+"174","Elektroniker,in",64
+"175","Verwaltungsfachangestellte,r",41
+"176","Qualitätsmanager,in",20
+"177","Zimmerer,in",21
+"178","Student,in (Mathematik)",15
+"179","Fleischereifachverkäufer,in",10
+"180","Landwirt,in",22
+"181","Leiter,in des Finanz- und Rechnungswesens",4
+"182","Servicemonteur,in",5
+"183","Referendar,in",25
+"184","Veranstaltungsmanager,in",19
+"185","Verwaltungsfachkraft (höherer Dienst)",1
+"186","Lebensmitteltechnologe,technologin",2
+"187","Kalkulator,in",6
+"188","Chemiker,in",18
+"189","Hotel- und Gaststättenangestellte,r",3
+"190","Student,in (Angewandte Informatik)",13
+"191","Hotelfachmann,frau",26
+"192","Fachangestellte,r für Arbeitsförderung",5
+"193","Beamter,Beamtin Bundesbank",2
+"194","Student,in (Volkswirtschaftslehre)",12
+"195","Mechaniker,in",12
+"196","Berufskraftfahrer,in",32
+"197","Einzelhandelskaufmann,frau (Lebensmitteleinzelhandel)",42
+"198","Qualitätsingenieur,in",22
+"199","Brandschutztechniker,in",8
+"200","Techniker,in (EDV)",5
+"201","Richter,in",6
+"202","Controller,in",81
+"203","Fremdsprachensekretär,in",2
+"204","Heilpädagoge,in",3
+"205","Telefonist,in",5
+"206","Diplom-Ingenieur,in Forstwirtschaft",1
+"207","Verkäufer,in",81
+"208","Student,in (Wirtschaftsinformatik)",28
+"209","Berufsfeuerwehrmann,frau",1
+"210","Lehrer,in (Gymnasium, FOS)",34
+"211","Anlagenwart,in",1
+"212","Feuerwehrbeamter,beamtin",5
+"213","Vertriebsangestellte,r",58
+"214","Medizinisch-techn. Laboratoriumsassistent,in",14
+"215","Diplom-Ingenieur,in Anlagenbau",3
+"216","Postangestellte,r",7
+"217","Schornsteinfeger,in",10
+"218","Energieelektroniker,in",5
+"219","Student,in (Bauingenieurwesen)",14
+"220","Student,in (Biologie)",15
+"221","Steuerberater,in",21
+"222","Einzelhandelskaufmann,frau (kein Lebensmitteleinzelhandel)",43
+"223","LKW-Fahrer,in",13
+"224","Auszubildende,r (Fachinformatiker,in)",22
+"225","Pflegehelfer,in",11
+"226","Heilpraktiker,in",10
+"227","Bäcker,in",9
+"228","Lagerarbeiter,in",23
+"229","Wirtschaftsingenieur,in Wirtschaftsingenieurwesen",7
+"230","IT-Systemadministrator,in",52
+"231","Feuerwehrmann,frau",13
+"232","Einzelhändler,in",6
+"233","Elektroniktechniker,in",3
+"234","Qualitätskontrolleur,in",9
+"235","Assistent,in",16
+"236","Hotelkaufmann,frau",7
+"237","Auszubildende,r (Fachkraft für Lagerlogistik)",19
+"238","Filialleiter,in (körperlich tätig)",20
+"239","Werbedesigner,in",2
+"240","Student,in (Psychologie)",16
+"241","CNC-Bediener,in",11
+"242","Landwirte, Pflanzenschützer",3
+"243","Fabrikarbeiter,in",5
+"244","Regierungsamtmann,frau",5
+"245","Büroangestellte,r",66
+"246","Auszubildende,r (Medizinische,r Fachangestellte,r)",20
+"247","Diplom-Ingenieur,in Mechatronik",3
+"248","Fachangestellte,r für Bürokommunikation",6
+"249","Technische,r Leiter,in",4
+"250","Instandhaltungsmechaniker,in",10
+"251","Kaufmann,frau Büro",33
+"252","Key Account Manager,in",39
+"253","Wirtschaftsingenieur,in",69
+"254","Maler,in und Lackierer,in (Ausbau)",4
+"255","Staatsanwalt,anwältin",10
+"256","Fotojournalist,in",3
+"257","Artdirektor,in",5
+"258","Programmierer,in",27
+"259","Konstruktionsmechaniker,in Ausrüstungstechnik",4
+"260","Wirtschaftsinformatiker,in",24
+"261","Krankenschwester",78
+"262","Verkaufsangestellte,r",15
+"263","Chemieingenieur,in",6
+"264","Biologe,Biologin",9
+"265","Lehrer,in an berufsbildenden Schulen",13
+"266","Maler,in und Lackierer,in",16
+"267","Steuerfachangestellte,r",33
+"268","Betriebswirtschaftler,in",34
+"269","Diplom-Betriebswirt,in",27
+"270","Bürofachkraft, Kaufmännische,r Angestellte",22
+"271","Auszubildende,r (Kraftfahrzeugmechatroniker,in)",8
+"272","Industriemeister,in",19
+"273","Diplom-Ingenieur,in (sonstige)",28
+"274","Personaltrainer,in",5
+"275","Projektorganisator,in",4
+"276","Veranstaltungsleiter,in",3
+"277","Student,in (Pädagogik/Lehramt)",43
+"278","Chefsekretär,in",4
+"279","Koch,Köchin",61
+"280","Versicherungsangstellte,r",33
+"281","Haustechniker,in",16
+"282","Fotograf,in",8
+"283","Trockenbauer,in",5
+"284","Schichtleiter,in",12
+"285","Wissenschaftliche,r Assistent,in",4
+"286","Wissenschaftliche,r Angestellte,r",36
+"287","Personalberater,in",21
+"288","Kaufmann,frau Einzelhandel (Lebensmitteleinzelh.)",26
+"289","Ausbilder,in (gewerbl.-techn. Ausbildungsberufe)",7
+"290","Chemiker, Chemie-Verfahrensingenieur,in",2
+"291","Notarfachangestellte,r",10
+"292","Trockenbaumonteur,in",5
+"293","Physiker,in, Physikingenieur,in, Mathematiker,in",10
+"294","Verkaufs-, Filialleiter,in im Handel",12
+"295","Auszubildende,r (Kaufmann,Kauffrau für Spedition und Logistikdienstleistung)",7
+"296","Bilanzbuchhalter,in",21
+"297","Marktleiter,in",4
+"298","Technische,r Assistent,in",5
+"299","Trockenausbauer,in",1
+"300","Wissenschaftler,in",11
+"301","Projektbearbeiter,in",11
+"302","Nagel-Designer,in",6
+"303","Fachangestellte,r Bäderbetrieb",3
+"304","Hotelbetriebswirt,in",5
+"305","Volljurist,in",23
+"306","Altenpfleger,in",71
+"307","Anwendungsentwickler,in (EDV)",14
+"308","Kaufmännische,r Angestellte,r (sonstige)",82
+"309","Maschinenbediener,in",12
+"310","Anwalt,Anwältin",10
+"311","Werkstoffkundeingenieur,in",4
+"312","Rechtsanwalt,anwältin",38
+"313","Büro- und kaufmännische,r Sachbearbeiter,in",70
+"314","Heilerziehungspfleger,in",25
+"315","Vertriebsleiter,in",33
+"316","Drucker,in",6
+"317","Außendienstmitarbeiter,in",34
+"318","Kaufmännisch-technische,r Angestellte,r",18
+"319","Universitätsprofessor,in",9
+"320","Kunststoffspritzer,in",1
+"321","Schlosser,in",21
+"322","Physiker,in",11
+"323","Fachangestellte,r für Medien und Informationsdienste",7
+"324","Zahntechniker,in",8
+"325","Consulter,in",24
+"326","Operationskrankenschwester",5
+"327","Student,in (Elektrotechnik)",22
+"328","Auszubildende,r (Tischler,in)",3
+"329","Polizeikommissar,in",7
+"330","Bürofachkraft",2
+"331","Büroassistent,in",6
+"332","Dozent,in",41
+"333","Diplom-Pädagoge,Pädagogin",8
+"334","Straßenwärter,in",18
+"335","Pharmakant,in",3
+"336","Marketingmanager,in",56
+"337","Disponent,in",55
+"338","Mediengestalter,in",22
+"339","Pädagogische,r Mitarbeiter,in",7
+"340","Altenpflegehelfer,in",25
+"341","Pharmazeutisch-technische,r Assistent,in",11
+"342","Elektroingenieur,in",27
+"343","Triebfahrzeugführer,in",8
+"344","Kosmetikberater,in",4
+"345","Dachdecker,in",15
+"346","Prozessingenieur,in",12
+"347","Industriemechaniker,in (Produktionstechnik)",7
+"348","Rechtspfleger,in",1
+"349","Ingenieur,in für Medizintechnik",15
+"350","Rolladen- und Jalousiebauer,in",2
+"351","Accounting-Manager,in",25
+"352","Drucker,in (Hoch-, Flach-, Tiefdruck)",9
+"353","Gesamtschullehrer,in",11
+"354","Industriemechaniker,in (Betriebstechnik)",15
+"355","Maschinenbauingenieur,in",68
+"356","Ingenieur,in für Informationstechnik",12
+"357","Immobilienwirt,in",8
+"358","Versicherungsvertreter,in",2
+"359","Berufssoldat,in",14
+"360","Personalreferent,in",34
+"361","Pädagoge,Pädagogin",11
+"362","Produktionsarbeiter,in",35
+"363","Hotelangestellte,r",9
+"364","Stuckateur,in",6
+"365","Beratende,r Ingenieur,in",2
+"366","Geschäftsführende,r Gesellschafter,in",37
+"367","Groß- und Außenhandelskaufmann, frau",38
+"368","Redakteur,in",20
+"369","Student,in",9
+"370","Student,in (Anglistik)",3
+"371","Pächter,in",1
+"372","Bereichsleiter,in",3
+"373","Fernmeldebaumonteur,in",1
+"374","Student,",2
+"375","Arbeitsvorbereiter,in",6
+"376","Planungsingenieur,in",7
+"377","Zeitsoldat,in",44
+"378","Sportlehrer,in",5
+"379","Elektromechaniker,in, Industrieelektroniker,in",4
+"380","Galvanotechniker,in",1
+"381","Logopäde,Logopädin",9
+"382","Fachlehrer,in musisch-technische Fächer",3
+"383","Cafeinhaber,in",2
+"384","Metzger,in",2
+"385","CNC-Fräser,in",14
+"386","Qualitätsprüfer,in",9
+"387","Vertriebsingenieur,in",25
+"388","Kassierer,in",9
+"389","Supporter,in (EDV)",5
+"390","Lackingenieur,in",2
+"391","Konstruktionsmechaniker,in Feinblechbautechnik",3
+"392","Textilingenieur,in",3
+"393","Automechanikermeister,in",2
+"394","Diplom-Modedesigner,in",4
+"395","Bürokommunikationselektroniker,in",1
+"396","Gesandte,r",1
+"397","Schrotthändler,in",1
+"398","Kabelbauer,in",1
+"399","Elektrokonstrukteur,in",5
+"400","Elektroindustriearbeiter,in",7
+"401","Entwicklungsingenieur,in",42
+"402","Informatikingenieur,in technisch",3
+"403","Zweiradmechaniker,in",5
+"404","Chemielaborant,in",25
+"405","Student,in (Chemie)",18
+"406","Geldtransportfahrer,in",1
+"407","Polizeibeamter,beamtin Außendienst",29
+"408","Modedesigner,in",3
+"409","Technische,r Vertriebsberater,in",2
+"410","Bestatter,in",3
+"411","Referent,in",14
+"412","Verwaltungsbeamter,beamtin",10
+"413","Personalbetreuer,in",13
+"414","Verwaltungsangestellte,r",69
+"415","Vertriebstechniker,in",2
+"416","Sekretär,in geprüft",2
+"417","Jurist,in",7
+"418","Lehrling",1
+"419","Kundenbetreuer,in",3
+"420","Auszubildende,r (Elektroniker,in)",4
+"421","Sanitär- und Heizungsmonteur,in",2
+"422","Garten- und Landschaftsbauer,in",17
+"423","Maschinen- und Anlagenfahrer,in",30
+"424","Student,in (Physik)",11
+"425","Sparkassenkaufmann,frau",7
+"426","Werkzeugmechaniker,in Stanz- und Umformtechnik",9
+"427","IT-System-Kaufmann,-frau",10
+"428","Rettungsassistent,in",25
+"429","Materialdisponent,in",6
+"430","Call-Center-Agent,in",21
+"431","Auszubildende,r (Anlagenmechaniker,in für Sanitär-, Heizungs- und Klimatechnik)",13
+"432","Auszubildende,r (Kaufmann,Kauffrau für Büromanagement)",20
+"433","Chirurg,in",5
+"434","Rechtspfleger,in (gehobener Justizdienst)",7
+"435","Netzwerkadministrator,in",9
+"436","Technische,r Angestellte,r (sonstige)",19
+"437","Rettungssanitäter,in",30
+"438","Fachkraft Lagerwirtschaft",20
+"439","Diplom-Psychologe,Psychologin",5
+"440","Techniker,in (Maschinen-, Apparate- und Fahrzeug)",28
+"441","Bauleiter,in",21
+"442","Dachdeckermeister,in",8
+"443","Auszubildende,r (Tiermedizinische,r Fachangestellte,r)",3
+"444","Touristikkaufmann,frau",10
+"445","Sozialversicherungsangestellte,r",24
+"446","Chauffeur,in",3
+"447","Zimmermann,frau",6
+"448","Koordinator,in",3
+"449","Versicherungsvermittler,in",2
+"450","Gießereimechaniker,in",6
+"451","Sozialpädagogische,r Mitarbeiter,in",5
+"452","Student,in (Maschinenbau)",59
+"453","Justizfachangestellte,r",12
+"454","Sozialarbeiter,in, Sozialpädagoge,in",37
+"455","Polizist,in",41
+"456","Elektroinstallateur,in",7
+"457","Schulsozialarbeiter,in",1
+"458","Diplom-Kaufmann,frau",23
+"459","Industriemechaniker,in",82
+"460","Produktionsplaner,in",10
+"461","Landmaschinenmechaniker,in",7
+"462","Fachkraft für Materialwirtschaft",1
+"463","Abteilungsmeister,in",12
+"464","Magazinarbeiter,in",5
+"465","PR-Berater,in",5
+"466","Busfahrer,in",22
+"467","Steuerassistent,in",16
+"468","Augenarzt,ärztin",1
+"469","Diplom-Elektroingenieur,in",12
+"470","Warenkontrolleur,in",3
+"471","Makler,in",3
+"472","Syndici",7
+"473","Objektleiter,in",2
+"474","Raumplaner,in",1
+"475","Beamter,Beamtin Polizeivollzugsdienst",2
+"476","Versandleiter,in",7
+"477","Finanzbuchhalter,in",22
+"478","Student,in (Sozialwissenschaften)",10
+"479","Professor,in",2
+"480","Betreuer,in",5
+"481","Montagewerker,in",6
+"482","Lagerist,in",28
+"483","IT-Systemelektroniker,in",16
+"484","Konstrukteur,in",32
+"485","Pharmazeutisch-kaufmännische,r Angestellte,r",5
+"486","EDV-Mitarbeiter,in",6
+"487","Kauenwärter,in",1
+"488","Handwerksmeister,in",3
+"489","Bildingenieur,in",1
+"490","Steinmetz- und Steinbildhauer,in",5
+"491","Maler,in",13
+"492","Diplom-Informatiker,in",9
+"493","Reinigungskraft",1
+"494","Elektroanlagentechniker,in",4
+"495","Handwerker,in",3
+"496","Datenverarbeitungskaufmann,frau",2
+"497","Küchenchef,in",4
+"498","Betonstein- und Terrazzohersteller,in",2
+"499","Produktionsleiter,in",11
+"500","Anlagentechniker,in",2
+"501","Foto-Designer,in",10
+"502","Logistik-Ingenieur,in",8
+"503","Versicherungsagent,in",6
+"504","Präparator,in",1
+"505","Softwareservicetechniker,in",6
+"506","Eiscafebesitzer,in",3
+"507","Hochbautechniker,in",6
+"508","Personalleiter,in",18
+"509","Softwareingenieur,in",26
+"510","Heilerzieher,in",3
+"511","Student,in (Kommunikationsdesign)",3
+"512","Flugzeugwartungsingenieur,in",2
+"513","Softwareberater,in",3
+"514","Auszubildende,r (Industriemechaniker,in)",9
+"515","Student,in (Wirtschaftsingenieurwesen)",38
+"516","Bergmann",8
+"517","Planer,in",15
+"518","Geograph,in",3
+"519","Bäckereifachverkäufer,in",12
+"520","Finanzvermittler,in",2
+"521","Gas- und Wasserinstallateur,in",13
+"522","Biolaborant,in",1
+"523","Marketingleiter,in",13
+"524","Flugzeugbauer,in",4
+"525","Produktionshelfer,in",25
+"526","Speditionskaufmann,frau",58
+"527","Fahrer,in",15
+"528","Fußbodenleger,in",2
+"529","Werkstoffprüfer,in",11
+"530","Kosmetiker,in",11
+"531","Industriefachwirt,in",8
+"532","Kinderkrankenschwester",14
+"533","Imbissstubenbesitzer,in",3
+"534","Bildungsberater,in",2
+"535","Betriebsratvorsitzende,r",6
+"536","Arzt,Ärztin (Strahlenmedizin, Chirurgie)",21
+"537","Montagehelfer,in",4
+"538","",6
+"539","Designer,in Industrie",3
+"540","Bekleidungstechniker,in Entwurf und Gestaltung",1
+"541","Chemikant,in",35
+"542","Hafenarbeiter,in",8
+"543","Montage-Schreiner,in",2
+"544","Handelsfachwirt,in",7
+"545","Bodenleger,in",7
+"546","Steuerfachwirt,in",9
+"547","Aufzugmonteur,in",2
+"548","Verwaltungsbeamter,beamtin beim Bund",3
+"549","Betriebsleiter,in",17
+"550","Zahnmedizinische,r Assistent,in",10
+"551","Außendienstverkäufer,in",3
+"552","Revisor,in",9
+"553","Produktentwickler,in",18
+"554","Zahnmedizinische,r Fachhelfer,in",7
+"555","Zahnarzt,ärztin",29
+"556","Staplerfahrer,in",8
+"557","Kaufmännische,r Geschäftsführer,in",2
+"558","Hauswirtschafter,in",12
+"559","Geschäftsbereichsleiter,in, Direktionsassistent,in",2
+"560","Pharmaingenieur,in",3
+"561","Luftverkehrskaufmann,frau",2
+"562","Regierungsinspektor,in",6
+"563","Vertriebsmanager,in",12
+"564","Maschinenbauer,in",4
+"565","Mediendesigner,in",3
+"566","Geschäftsführer,in (sonstige)",23
+"567","Tagesmutter",2
+"568","Betriebsleiterassistent,in",5
+"569","Bankbetriebswirt,in",17
+"570","EDV-Anwendungstechniker,in",5
+"571","Anästhesist,in",2
+"572","Grafik-Designer,in",20
+"573","Vorstandsassistent,in",6
+"574","Fliesen- und Mosaikleger,in",1
+"575","Unternehmensberater,in und verwandte Berufe",9
+"576","Sozialbetreuer,in",2
+"577","Akkordarbeiter,in",5
+"578","Kraftfahrzeugelektromechaniker,in",3
+"579","Diplom-Ingenieur,in Medientechnik",2
+"580","Pflegedienstleiter,in",17
+"581","Heilerziehungspflegehelfer,in",1
+"582","Unternehmer,in",12
+"583","Umweltberater,in",2
+"584","Großhandelskaufmann,frau",15
+"585","Ingenieurassistent,in Energietechnik",4
+"586","Biologielaborant,in",5
+"587","Flugbegleiter,in",17
+"588","Energieanlagenelektroniker,in",10
+"589","Berufsfahrer,in",2
+"590","Küster,in",2
+"591","Konstruktionsingenieur,in",11
+"592","Projektleiter,in (EDV)",18
+"593","Leitende,r Angestellte,r",17
+"594","Personalsachbearbeiter,in",17
+"595","Energieingenieur,in",6
+"596","Verfahrensmechaniker,in (Metallumformung)",2
+"597","Sonderschullehrer,in",12
+"598","Diplom-Ingenieur,in Veranstaltungstechnik",2
+"599","Referent,in (EDV)",7
+"600","Berechnungsingenieur,in",8
+"601","Friseur,in",20
+"602","Fachkraft Süßwarentechnik",2
+"603","Industrieanlagenmechaniker,in",16
+"604","Wagenpfleger,in",1
+"605","Großküchenkoch,köchin",3
+"606","Student,in (Gesundheitsmanagement)",8
+"607","Verpackungsmittelmechaniker,in",5
+"608","Messtechniker,in",3
+"609","Sachverständige,r",9
+"610","Werkstudent,in",8
+"611","Raumausstatter,in",16
+"612","Diplom-Grafik-Designer,in",1
+"613","Lager-, Transportarbeiter,in",17
+"614","Kellner,in m. Ausbildung",3
+"615","Automatisierungsingenieur,in",13
+"616","Ingenieur,in für Informationsverarbeitung",1
+"617","Sudmeister,in",1
+"618","Flugzeugabfertiger,in",5
+"619","Fertigungstechniker,in",2
+"620","Medizinisch-technische,r Assistent,in und verwandte Berufe",4
+"621","Gastronom, Gastronomin",13
+"622","Brandschutzprüfer,in",4
+"623","Sekretär,in Gesundheitswesen",3
+"624","Facharbeiter,in",8
+"625","Fachwirt,in",6
+"626","Karosserie- und Fahrzeugbautechniker,in",4
+"627","Fluggerät-, Flugtriebwerkmechaniker,in, Fluggerätbauer,in",5
+"628","Energietechnikingenieur,in",4
+"629","Diplom-Ingenieur,in Elektrotechnik allg.",15
+"630","Kartograph,in",2
+"631","Krankenpflegehelfer,in",4
+"632","Kundendienstsachbearbeiter,in",6
+"633","Steuerberatungsassistent,in",6
+"634","Marketing-Assisstent,in",21
+"635","Justizvollzugsobersekretär,in",4
+"636","Werkzeugmechaniker,in",14
+"637","Facharbeiter,in für Lagerwirtschaft",1
+"638","Diplom-Ingenieur,in Verfahrenstechnik",5
+"639","Controller-Assistent,in",2
+"640","Instandhaltungstechniker,in",3
+"641","Gabelstaplerfahrer,in",6
+"642","Evang. Diakon,in",1
+"643","Qualitätstechniker,in",3
+"644","Immobilienberater,in",5
+"645","Kriminalkommissar,in",8
+"646","Sanitärinstallateurmeister,in",2
+"647","Verpacker,in",3
+"648","Sonstige feinwerktechnische und verwandte Berufe",4
+"649","Filmschaffende,r",2
+"650","Innendienstangestellte,r",7
+"651","Apotheker,in",16
+"652","Technische,r Redakteur,in",23
+"653","Bautechniker,in",13
+"654","Anlagenmechaniker,in",25
+"655","Einsatzleiter,in",6
+"656","Technische,r Zeichner,in",12
+"657","Anlagenmonteur,in",9
+"658","Chiropraktiker,in",4
+"659","Winzer,in",4
+"660","Teamsekretär,in",25
+"661","Großhändler,in",2
+"662","Auszubildende,r (Kaufmann,Kauffrau im Groß- und Außenhandel)",16
+"663","Versicherungsfachwirt,in",15
+"664","Montageleiter,in",3
+"665","Polizeibeamter,beamtin",25
+"666","Fleischer,in",2
+"667","Ber",1
+"668","Berater,in (EDV",1
+"669","Malermeister,in",5
+"670","Psychologe,Psychologin",21
+"671","Vertriebskaufmann,frau",7
+"672","Student,in (Medien)",6
+"673","Marketingberater,in",4
+"674","Straßenarbeiter,in",8
+"675","Werbetechniker,in",2
+"676","Gerätewart,in",3
+"677","Haushaltshilfe",5
+"678","Assistent,in der Geschäftsleitung",22
+"679","Anlagenfahrer,in",4
+"680","Anlagenführer,in",13
+"681","IT-Security-Manager,in",4
+"682","Berufskraftfahrer, Kutscher",7
+"683","Lagerleiter,in",3
+"684","Anwendungsberater,in (EDV)",8
+"685","Kindergärtner,in",13
+"686","Feinmechaniker,in",3
+"687","Zerspanungsfacharbeiter,in",4
+"688","Augenoptikermeister,in",3
+"689","Diplom-Ingenieur,in Elektronik",4
+"690","Lackierer,in",6
+"691","Lohnbuchhalter,in",2
+"692","Auszubildende,r (Mechatroniker,in)",12
+"693","Warenhausdetektiv,in",2
+"694","Vertriebsberater,in",3
+"695","Polizeivollzugsbeamter,beamtin",6
+"696","Installations- und Montageberufe",1
+"697","Psychotherapeut,in",17
+"698","Immobilienkaufmann,frau",24
+"699","Tätowierer,in",2
+"700","Medizintechniker,in",1
+"701","Verwaltungswirt,in",6
+"702","Möbelpacker,in",2
+"703","Betriebsinhaber,in",2
+"704","Justizsekretär,in",2
+"705","Bautischler,in",1
+"706","Reiseverkehrskaufmann,frau",3
+"707","Schlachter,in",1
+"708","Betriebswirtschaftliche,r Berater,in",10
+"709","Kommissionierer,in",14
+"710","Student,in (Humanbiologie)",5
+"711","Lacktechniker,in",2
+"712","Prüfingenieur,in",1
+"713","Dreher,in",17
+"714","Inbetriebhaltungstechniker,in",6
+"715","Sport und Fitnesskaufmann,frau",10
+"716","Weinküfer,in",2
+"717","Diplom-Ingenieur,in Nahrungsmitteltechnologie",2
+"718","Polizeiverwaltungsangestellte,r",2
+"719","Abwassermeister,in",1
+"720","Solotänzer,in",1
+"721","Berufsberater,in",1
+"722","Fliesenleger,in",3
+"723","Dispatcher",3
+"724","Händler,in",1
+"725","Versicherungsberater,in",3
+"726","Bewährungshelfer,in",2
+"727","Medizinische,r Bademeister,in",5
+"728","ADAC-Straßenwachtfahrer,in",2
+"729","Verfahrensmechaniker,in (Metallerzeugung)",1
+"730","Vorarbeiter,in",19
+"731","Verfahrensingenieur,in",11
+"732","Politologe,Politologin",2
+"733","Diplom-Ingenieur,in Fahrzeugtechnik",4
+"734","Student,in (Ernährungswissenschaften)",4
+"735","IT-Koordinator,in",14
+"736","Küchenaufsteller,in",2
+"737","Sandgewinner,in",4
+"738","Versuchstechniker,in",17
+"739","Automobilbauer,in",3
+"740","Notar,in",8
+"741","Landschaftsplaner,in",2
+"742","Maschinen- und Anlagenmonteur,in",4
+"743","Beton- und Stahlbetonbauer,in",1
+"744","Automechaniker,in",1
+"745","Journalist,in",1
+"746","Elektromaschinenbauer,in",3
+"747","Kaufmann,frau Spedition",5
+"748","Kaufmann,frau Industrie",6
+"749","Bereitschaftspolizist,in",2
+"750","Vertriebsassistent,in",17
+"751","Tierarzt,ärztin",5
+"752","Fertigungsmeister,in",2
+"753","Technische,r Betriebswirt,in",8
+"754","Weinbautechniker,in",2
+"755","Elektromeister,in",9
+"756","Holztechniker,in",4
+"757","Kaufmännische,r Direktor,in",1
+"758","Kaufmännische,r Assistent,in Rechnungswesen",1
+"759","Kaufmännische,r Leiter,in",3
+"760","Kaufmännische,r Assistent,in Gesundheitswesen",1
+"761","Kaufmännische,r Ausbilder,in",1
+"762","Werkzeugmachermeister,in",3
+"763","Kaufmännische,r Assistent,in",3
+"764","Elektromonteur,in",5
+"765","Montagefacharbeiter,in",2
+"766","Arbeitslose,r mit Berufsausbildung",13
+"767","Staatlich geprüfte,r Motopäde,Motopädin",2
+"768","Operator,in",8
+"769","Teiledienstleiter,in",2
+"770","Anzeigenberater,in",3
+"771","Maschineneinsteller,in",2
+"772","Baustoff-Fachberater,in",4
+"773","Sicherheitsfachkraft",12
+"774","Student,in (Energiewirtschaft)",2
+"775","Versandangestellte,r",3
+"776","Fernmeldeelektroniker,in",1
+"777","Polizeihauptkommissar,in",7
+"778","Vermessungstechniker,in",15
+"779","Inspizient,in",1
+"780","Mediaberater,in",2
+"781","Student,in (Architektur)",16
+"782","Kaufmann,frau Schifffahrt",3
+"783","Beamter,Beamtin Innere Verwaltung",9
+"784","Regierungsangestellte,r",9
+"785","Justizbeamter,beamtin",4
+"786","Sicherheitsbeauftragte,r",1
+"787","Administrator,in",1
+"788","Technische,r Geschäftsführer,in",2
+"789","Fondsmanager,in",3
+"790","Paketzusteller,in",18
+"791","Musiker,in",7
+"792","Kommunikationstrainer,in",4
+"793","Chemiearbeiter,in",1
+"794","Musiker",4
+"795","Reitwart,in",1
+"796","Diplom-Ingenieur,in technische Informatik",1
+"797","Management-Trainer,in",2
+"798","Alarmanlagenmonteur,in",3
+"799","Fachkrankenschwester",9
+"800","Wirtschaftsberater,in",4
+"801","Fremdsprachenkorrespondent,in",6
+"802","Auszubildende,r (Metallbauer,in)",2
+"803","Autoglaser,in",3
+"804","Fachlehrer,in allgemeinbildende Schulen",4
+"805","Fahrzeugbauingenieur,in",7
+"806","Dachdeckergehilfe,gehilfin",6
+"807","Schornsteinfegermeister,in",1
+"808","Student",3
+"809","Praxishelfer,in",6
+"810","Tiefbauer,in",2
+"811","Steinmetz,in",2
+"812","Niederlassungsleiter,in",3
+"813","Installateur,in",1
+"814","Wirtschaftsprüfer,in",6
+"815","Auszubildende,r (Sozialversicherungsfachangestellte,r)",7
+"816","Gesellschafter,in Geschäftsführer,in",7
+"817","Industriemechaniker,in (Geräte-, Feinwerktechnik)",11
+"818","Postbeamter,beamtin mittlerer techn. Dienst",2
+"819","Sekretär,in Fremdsprachen staatlich geprüft",3
+"820","Futtermittelhändler,in",1
+"821","Tiefbauarbeiter,in",5
+"822","Futtermittelhersteller,in",1
+"823","Kundenberater,in",14
+"824","Beamter,Beamtin Sozialverwaltung",5
+"825","Geophysiker,in",2
+"826","Diplom-Kommunikationsdesigner,in",7
+"827","Assistent,in Behörden- und Betriebswirtschaft",2
+"828","Vertriebssachbearbeiter,in",7
+"829","Metallbauer,in",13
+"830","Fluggastkontrolleur,in",12
+"831","Volkswirt,in",6
+"832","Diplom-Sozialpädagoge,Sozialpädagogin",3
+"833","Einkäufer,in, Einkaufsleiter,in",3
+"834","Hausmeister,in",20
+"835","Kundendiensttechniker,in",5
+"836","Technische,r Sachbearbeiter,in",2
+"837","Schiffstechnikingenieur,in",2
+"838","Beamter,Beamtin Kommunalverwaltung",2
+"839","Empfangsdame",3
+"840","Kundendienstmonteur,in",1
+"841","Fertigungsmonteur,in",4
+"842","Apothekenangestellte,r",8
+"843","Verwaltungsjurist,in",5
+"844","Pfleger,in",3
+"845","Förster,in",4
+"846","Bestücker,in",4
+"847","Feinwerkingenieur,in",2
+"848","Wirtschaftsprüfer,in, Steuerberater,in und verwandte Berufe",7
+"849","Fahrdienstleiter,in",17
+"850","Bauarbeiter,in",9
+"851","Immobilienmakler,in",16
+"852","Wasserversorgungstechniker,in",2
+"853","Finanzberater,in",5
+"854","Fluggerätemechaniker,in",8
+"855","Vermögensverwalter,in",3
+"856","Bankfachmann,frau",5
+"857","Amtsrat,Amtsrätin",5
+"858","Vertriebsleiter,in (EDV)",3
+"859","Kriminalbeamter,beamtin",3
+"860","Modellschlosser,in",1
+"861","Dienstleister,in",2
+"862","Einrichtungsberater,in",6
+"863","Personalchef,in",1
+"864","Oberarzt,Oberärztin",10
+"865","Staatlich geprüfte,r Techniker,in",1
+"866","Rechtsanwaltsfachangestellte,r",12
+"867","Holz- und Bautenschützer,in",1
+"868","Hausratverkäufer,in",2
+"869","Verkaufsleiter,in",9
+"870","Schiffsingenieur,in",3
+"871","Groß- und Einzelhandelskaufmann,frau",3
+"872","Media-Fachmann,frau",3
+"873","Veterinär,in",3
+"874","Produktdesigner,in",2
+"875","Medientechniker,in",10
+"876","Fertigungsarbeiter,in",1
+"877","Soldat,in",13
+"878","Polizeianwärter,in",20
+"879","Kaufmann,frau Einzelhandel (kein Lebensmittelein)",35
+"880","Verkaufs-, Vertriebssachbearbeiter,in",6
+"881","Bildungsstättenleiter,in",2
+"882","Werbeleiter,in",2
+"883","Pharmazeutisch-technische,r Angestellte,r",8
+"884","Bergbauingenieur,in",6
+"885","Sozialarbeiter,in",31
+"886","Student,in (Philosophie)",2
+"887","Bäcker,in- und Konditormeister,in",2
+"888","Laborant,in (ohne Gefahrstoffe)",4
+"889","Süßwarenfachkraft",3
+"890","Kellner,in o. Ausbildung",3
+"891","Reiniger,in",2
+"892","Auszubildende,r (Hotelfachmann,-fachfrau)",14
+"893","Frisör,in",4
+"894","Zerspanungsmechaniker,in",19
+"895","Textilreinigungsmeister,in",5
+"896","Brauereiingenieur,in",4
+"897","Kfz-Handwerker,in",2
+"898","Landschaftsgärtner,in",3
+"899","Industriemechaniker,in (Maschinen-, Systemtechnik)",8
+"900","Notarztwagenfahrer,in",2
+"901","Autohändler,in",6
+"902","Bademeister,in",1
+"903","Versorgungstechniker,in",4
+"904","Diplom-Oekonom,Oekonomin",6
+"905","Sprachtherapeut,in",2
+"906","Auszubildende,r (Fachverkäufer,in im Lebensmittelhandwerk)",2
+"907","Elektriker,in, Elektroinstallateur,in",28
+"908","Verkäufer,in Nahrungsmittelhandwerk",11
+"909","Brauer,in und Mälzer,in",1
+"910","Hotelbesitzer,in",2
+"911","Kaminkehrer,in",2
+"912","Maschinenwarenfertiger,in",1
+"913","Personaldisponent,in",7
+"914","Gemeindearbeiter,in",2
+"915","Realschullehrer,in",12
+"916","Übersetzer,in",3
+"917","Student,in (Informationstechnik)",5
+"918","Rechtsanwalts- und Notargehilfe,gehilfin",5
+"919","Gerüstbauer,in",8
+"920","Pflegefachkraft",8
+"921","Hauptschullehrer,in",2
+"922","Student,in (Linguistik)",4
+"923","Therapeutische Berufe",2
+"924","Schulleiter,in",4
+"925","Applikationstechniker,in",7
+"926","Umweltschutzingenieur,in",9
+"927","Mechanisator,in",3
+"928","Polier,in",2
+"929","Auszubildende,r (Kaufmann,Kauffrau für Versicherungen und Finanzen)",3
+"930","Fahrzeuglackierer,in",6
+"931","Baupolier,in",1
+"932","Chemisch-technische,r Assistent,in",15
+"933","Betreuungshelfer,in",3
+"934","CAD-Designer,in",2
+"935","Gastwirt,in",4
+"936","Zeitungsausträger,in",2
+"937","Verwaltungsfachkraft",3
+"938","Karosserie-, Fahrzeugbauer,in",2
+"939","Logistikfachmann,frau",3
+"940","Diplom-Ingenieur,in Konstruktion",2
+"941","Kindergartenleiter,in",4
+"942","Pflasterer,in",1
+"943","Internist,in",8
+"944","Dampfkraftwerkmaschinist,in",1
+"945","Montagearbeiter,in",4
+"946","Anwendungsprogrammierer,in",10
+"947","Auszubildende,r (Kaufmann,Kauffrau im Einzelhandel)",14
+"948","Schreinermeister,in",2
+"949","Zahnmedizinisch-technische,r Assistent,in",6
+"950","CNC-Dreher,in",6
+"951","Diplom-Ingenieur,in Druck- und Druckereitechnik",1
+"952","Projektassistent,in",23
+"953","Student,in (Biophysik)",1
+"954","Werbemanager,in",7
+"955","Kinderkrankenpfleger,in",5
+"956","Sozialhelfer,in",4
+"957","Platzwart,in",4
+"958","Maurerpolier,in",1
+"959","Jugendreferent,in",2
+"960","Fertighausmonteur,in",2
+"961","Lebensmittelverarbeitungstechniker,in",2
+"962","Studienleiter,in",3
+"963","Forstwirte (Waldarbeiter)",5
+"964","Drogist,in",3
+"965","Fernmeldehandwerker,in",1
+"966","Lebensmittelchemiker,in",4
+"967","Maschinist,in",1
+"968","Versicherungssachbearbeiter,in",8
+"969","Gebäudereinigermeister,in",2
+"970","Sporttherapeut,in",5
+"971","Fachreferent,in",13
+"972","Elektrotechnikmeister,in",2
+"973","Desinfektor,in",2
+"974","Versandarbeiter,in",5
+"975","Hauswirtschaftliche Gehilfen und Helfer",1
+"976","Hauswirtschaftshelfer,in",2
+"977","Sicherheitsmitarbeiter,in",15
+"978","Serviceleiter,in",3
+"979","Referatsleiter,in",3
+"980","Bekleidungsnäher,in",2
+"981","Systemingenieur,in",5
+"982","Maurermeister,in",11
+"983","Bauzeichner,in",22
+"984","Student,in (Informatik)",25
+"985","Psychiater,in",2
+"986","Heizungsbauer,in",4
+"987","Landwirtschaftsberater,in",1
+"988","Sprachlehrer,in",1
+"989","Diplom-Wirtschaftsingenieur,in",4
+"990","Vorarbeiter,in, Gruppenleiter,in",6
+"991","Vorarbeiter,i",1
+"992","Tonmeister,in",2
+"993","Augenoptiker,in",1
+"994","Chefkoch,Chefköchin",11
+"995","Diplom-Geologe,Geologin",3
+"996","Werksfeuerwehrmann,frau",5
+"997","Auslieferungsfahrer,in",14
+"998","Bauschlosser,in",1
+"999","Friseure",2
+"1000","Bäckereiverkäufer,in",3
+"1001","Fertigungsplaner,in",13
+"1002","Schriftsteller,in",6
+"1003","Hundeabrichter,in",10
+"1004","Diplom-Sozialarbeiter,in",7
+"1005","Finanz-, Rechnungswesenfachkraft, Kalkulator",4
+"1006","Straßenbahnfahrer,in",4
+"1007","Kundendienstberater,in",2
+"1008","Prüfmonteur,in",3
+"1009","Medizinisch-technische,r Röntgenassistent,in",2
+"1010","Spielhallenaufsicht",4
+"1011","Baustoffhändler,in",2
+"1012","Feinblechner,in",1
+"1013","Arbeitslose,r ohne Berufsausbildung",3
+"1014","Karosseriebauer,in",7
+"1015","Medienberater,in (Werbung)",13
+"1016","Erzieherhelfer,in",7
+"1017","Finanzmakler,in",3
+"1018","Trainer,in",3
+"1019","Börsenmakler,in",5
+"1020","Chemiehelfer,in",4
+"1021","Automatisierungstechniker,in",2
+"1022","Angebotssachbearbeiter,in",6
+"1023","Sozialassistent,in",2
+"1024","Immobilienverwalter,in",6
+"1025","Chemiefacharbeiter,in",3
+"1026","Chemiebetriebswerker,in",1
+"1027","Chemiewerker,in",1
+"1028","Ingenieur,in für Agrochemie",1
+"1029","Chemievorarbeiter,in",1
+"1030","Chemiebetriebsarbeiter,in",2
+"1031","Chemiefachwerker,in",1
+"1032","Tierarzthelfer,in",6
+"1033","Medienpädagoge,pädagogin",2
+"1034","Laborant,in Chemie",1
+"1035","Lebensmitteltechniker,in",3
+"1036","Bootsbauer,in",2
+"1037","Telefonverkäufer,in",2
+"1038","Automobilverkäufer,in",18
+"1039","Heizungs- und Sanitärinstallateur,in",14
+"1040","Sportwissenschaftler,in",5
+"1041","Einkaufsleiter,in",10
+"1042","Gießer,in",2
+"1043","Pferdepfleger,in",2
+"1044","Schweißer,in",26
+"1045","Elektriker,in Bergbau unter Tage",3
+"1046","Maschinenschlosser,in",2
+"1047","Industrielackierer,in",5
+"1048","Psychologe,in",5
+"1049","Pressenführer,in",4
+"1050","Anlagenbediener,in",29
+"1051","Baufacharbeiter,in",7
+"1052","Fertigungsmechaniker,in",8
+"1053","Musikmanager,in",3
+"1054","Kommunikations-, Büroinformationselektroniker,in",3
+"1055","Pressereferent,in",5
+"1056","Designer,in Grafik",12
+"1057","Gebietsverkaufsleiter,in",2
+"1058","Reisebüroangestellte,r",5
+"1059","Restaurantfachmann,frau",2
+"1060","Straßen- und Tiefbaufacharbeiter,in",15
+"1061","Anlagen-, Konstruktionsmechaniker,in",3
+"1062","Krankenschwestern, -pfleger, Hebammen",13
+"1063","Straßenbaupolier,in",6
+"1064","Diplom-Mathematiker,in",5
+"1065","Kommunalverwaltungsbeamter,beamtin",5
+"1066","Organisationsberater,in",1
+"1067","Holzbearbeitungsmechaniker,in",7
+"1068","Metallbauer (Metallgestaltung) und Schmiede (Handwerk)",5
+"1069","Selbständige,r Musiklehrer,in",8
+"1070","Briefsortierer,in",3
+"1071","Erdarbeiter,in",1
+"1072","Designer,in",7
+"1073","Bühnenhandwerker,in",2
+"1074","Polizeiobermeister,in",3
+"1075","Bürsten- und Pinselmacher,in",1
+"1076","Garten- und Landschaftspfleger,in",2
+"1077","Web-Designer,in",11
+"1078","Produktionsingenieur,in",8
+"1079","Betriebsassistent,in",4
+"1080","Lokführer,in",10
+"1081","Filialleiter,in (nicht körperlich tätig)",8
+"1082","Kraftwerkmeister,in",1
+"1083","Art-Director Werbung",3
+"1084","Maschinenarbeiter,in",9
+"1085","Verwaltungsfachwirt,in",4
+"1086","Ledertechniker,in",2
+"1087","Techniker,in (sonstige)",18
+"1088","Reiseveranstalter,in",1
+"1089","Stadtinspektor,in",3
+"1090","Industrievulkaniseur,in",3
+"1091","Diplom-Ingenieur,in techn. Gesundheitswesen",1
+"1092","Technische,r Außendienstmitarbeiter,in",4
+"1093","Laborleiter,in",6
+"1094","Braumeister,in",3
+"1095","Hörfunkredakteur,in",2
+"1096","Metzgereifachverkäufer,in",5
+"1097","Logistikkoordinator,in",9
+"1098","Einrichter,in",3
+"1099","Strahlenschutzingenieur,in",8
+"1100","Hotelier,in",3
+"1101","Naturwissenschaftler,in",2
+"1102","Projektberater,in",3
+"1103","Prokurist,in",4
+"1104","Student,in (Geschichte)",5
+"1105","Student,in (Management)",12
+"1106","Wachmann,frau",3
+"1107","Rechtsreferendar,in",9
+"1108","Biologisch-technische,r Assistent,in",4
+"1109","Lehrer",1
+"1110","Rezeptionist,in",2
+"1111","Zahntechnikermeister,in",7
+"1112","Hilfsgärtner,in",2
+"1113","Bierfahrer,in",1
+"1114","Lebensversicherungssachbearbeiter,in",2
+"1115","ADAC-Straßenwacht",2
+"1116","Hausmeister, Hauswarte",7
+"1117","Betonleerer,in",2
+"1118","Hundezüchter,in",2
+"1119","Finanzdienstleister,in",12
+"1120","Glas- und Gebäudereiniger,in",4
+"1121","Export-Sachbearbeiter,in",2
+"1122","Architekten, Raumplaner",1
+"1123","Tierheilpraktiker,in",2
+"1124","Straßenbauer,in",9
+"1125","Texter,in",3
+"1126","Glaser,in",6
+"1127","Marketingsekretär,in",1
+"1128","Student,in ",2
+"1129","Journalist,in Zeitungen und Zeitschriften",1
+"1130","Bürokommunikationskaufmann,frau",4
+"1131","Betriebsschlosser,in",5
+"1132","Zahnmedizinische,r Fachgehilfe,gehilfin",4
+"1133","Galvaniseur,in",2
+"1134","Büroleiter,in",4
+"1135","Gleisbauer,in",2
+"1136","Trockenbaumeister,in",1
+"1137","Medienbetriebstechnikingenieur,in",1
+"1138","Polizeibeamter,beamtin Innendienst",6
+"1139","CNC-Programmierer,in",4
+"1140","Staatlich geprüfte,r Rettungsassistent,in",1
+"1141","Warenannahmeleiter,in",3
+"1142","Servicefachkraft (Restaurant)",7
+"1143","Kraftfahrzeug-Mechaniker,in",2
+"1144","Kabelmonteur,in",9
+"1145","Sonstige Lehrer",1
+"1146","Systemspezialist,in",1
+"1147","Polierer,in",6
+"1148","Fachberater,in",6
+"1149","Fertigungsleiter,in",3
+"1150","Fahr-, Verkehrslehrer,in",4
+"1151","Autoverkäufer,in",2
+"1152","Versicherungsmakler,in",5
+"1153","Krankenträger,in",2
+"1154","Zusteller,in",3
+"1155","Heilerziehungshelfer,in",4
+"1156","Forstwirt,in",7
+"1157","Servicekaufmann,frau im Luftverkehr",1
+"1158","Kommunalbeamter,beamtin",4
+"1159","Grundstücks- und Wohnungswirtschaftskaufmann,frau",3
+"1160","Promoter,in",3
+"1161","Student,in (Biochemie)",14
+"1162","Grafiker,in",15
+"1163","Berufsschullehrer,in",8
+"1164","Federmacher,in",1
+"1165","Matrose,in Seeschifffahrt",2
+"1166","Kapitäne (Küsten-, Seeschifffahrt)",1
+"1167","Handelsvertreter,in, Vertriebsbeauftragter,in",9
+"1168","Transportunternehmer,in",1
+"1169","Hauswirtschaftsassistent,in",3
+"1170","Kaufhausdektektiv,in",1
+"1171","Diplom-Biologe, Biologin",5
+"1172","Ingenieurassistent,in Maschinenbau",3
+"1173","EDV-Techniker,in",1
+"1174","Augenoptiker,in staatlich geprüft",1
+"1175","Sparkassenfachwirt,in",3
+"1176","Arzt,Ärztin (Kiefer-, Zahnmedizin)",3
+"1177","Kameramann,frau",3
+"1178","Taxiunternehmer,in",4
+"1179","Agrarwissenschaftler,in",2
+"1180","Marketingkaufmann,frau",6
+"1181","Sachversicherungssachbearbeiter,in",2
+"1182","Psychagoge,Psychagogin",2
+"1183","Geschäftsstellenleiter,in",4
+"1184","Studienrat,rätin",2
+"1185","Art-Director Designer,in",3
+"1186","Paketpacker,in",1
+"1187","Greenkeeper,in (Golf)",4
+"1188","Informatikassistent,in",2
+"1189","Land-, Tierwirtschaftsberater; Agraringenieur,in",2
+"1190","Projektentwickler,in",2
+"1191","Beleuchter,in",2
+"1192","Energieberater,in",1
+"1193","IT-Systementwickler,in",8
+"1194","Leichenbestatter,in",3
+"1195","Maschineneinrichter,in",4
+"1196","Mess- und Reglungstechniker,in",2
+"1197","Beamter,Beamtin Feuerwehrtechnischer Dienst",7
+"1198","Kaufmann,frau Eisenbahn",2
+"1199","Feinwerktechniker,in",2
+"1200","Student,in (Medizintechnik)",8
+"1201","Manager,",1
+"1202","Tiefbaufacharbeiter,in Rohrleitungsbauer",3
+"1203","Bauunternehmer,in",2
+"1204","Student,in (Data Science)",2
+"1205","Innendienstmitarbeiter,in",2
+"1206","Pressesprecher,in",7
+"1207","Industrieelektroniker,in Produktionstechnik",4
+"1208","Umweltschutztechnische,r Assistent,in",1
+"1209","Bohrarbeiter,in",1
+"1210","Technische,r Mitarbeiter,in",1
+"1211","Inspektor,in",5
+"1212","Kraftwerker,in",3
+"1213","Metallfacharbeiter,in",2
+"1214","Gebäudetechniker,in",2
+"1215","Systemanalytiker,in",3
+"1216","Küchenmonteur,in",7
+"1217","Bankfachwirt,in",12
+"1218","Diplom-Oecotrophologe,in Ernährung und Hauswirtschaft",3
+"1219","Fachkraft für Veranstalt.-Technik",2
+"1220","Baumaschinenführer,in",1
+"1221","Baustoffprüfer,in",2
+"1222","Betonbohrer,in",4
+"1223","Dokumentationsassistent,in medizinische,r",1
+"1224","Dokumentarfachmann,frau",1
+"1225","Diplom-Dokumentar,in",1
+"1226","Stahlwerker,in",3
+"1227","Verkaufssachbearbeiter,in",2
+"1228","Medizinische,r Dokumentar,in",4
+"1229","Speditionssachbearbeiter,in",1
+"1230","Werkstattleiter,in",8
+"1231","Dokumentar,in",1
+"1232","Modellbauer,in",1
+"1233","Sattler,in",4
+"1234","Hotelassistent,in",2
+"1235","Kamera-Assistent,in",1
+"1236","Personalfachkaufmann,frau",6
+"1237","Pilot,in",7
+"1238","Energiebeauftragte,r",2
+"1239","Kanalarbeiter,in",2
+"1240","Omnibusführer,in",6
+"1241","Materialbereitsteller,in",7
+"1242","Rohrreiniger,in",2
+"1243","Staatlich geprüfte,r Betriebswirt,in",1
+"1244","Abwassertechniker,in",2
+"1245","Auszubildende,r (Zerspanungsmechaniker,in)",7
+"1246","Verkaufshilfe",3
+"1247","Verkaufsberater,in",3
+"1248","Florist,in",5
+"1249","Papiermaschinenführer,in",1
+"1250","Feinwerker,in (Elektronik)",1
+"1251","Fachverkäufer,in",4
+"1252","Student,in (International Business)",3
+"1253","Chefarzt,ärztin",3
+"1254","Archivar,in",2
+"1255","Religionspädagoge,pädagogin",3
+"1256","Mechanikerhelfer,in",4
+"1257","Werker,in",5
+"1258","Medizinisch-technische,r Radiologieassistent,in",7
+"1259","Wagenmeister,in",1
+"1260","Systembetreuer,in (EDV)",2
+"1261","Diplom-Ingenieur,in Strahlenschutz",2
+"1262","Invenstmentberater,in",4
+"1263","Werkzeugmacher,in",3
+"1264","Elektroanlageninstallateur,in",4
+"1265","Molkereiarbeiter,in",1
+"1266","Maschinenführer,in",11
+"1267","Doktorand,in",5
+"1268","Straßenbauarbeiter,in",3
+"1269","Grenzschutzpolizist,in",3
+"1270","Auszubildende,r (Automobilkaufmann,-kauffrau)",4
+"1271","Energieelektroniker,in Anlagentechnik",2
+"1272","Personalvermittler,in",2
+"1273","Tiefbaufacharbeiter,in",3
+"1274","Konstruktionstechniker,in",3
+"1275","Vermieter,in",3
+"1276","Rohrleitungsbauer,in",4
+"1277","Reinemachfrau",2
+"1278","Werkzeugmacher,in Handwerk",1
+"1279","Leiter,in (EDV)",4
+"1280","Polizeibedienstete,r",2
+"1281","Justizvollzugsbeamter,beamtin",4
+"1282","Marketingfachkaufmann,frau",4
+"1283","Orthopädietechniker,in",2
+"1284","Verkehrstechniker,in",3
+"1285","Amtsleiter,in",3
+"1286","Logistikleiter,in",2
+"1287","Verwalter,in",1
+"1288","Bauhofarbeiter,in",4
+"1289","Eisenbieger,in",1
+"1290","Fachagrarwirt,in",3
+"1291","Steuerfachmann,frau",3
+"1292","Support -Ingenieur,in",2
+"1293","Maler- und Lackierermeister,in",2
+"1294","Schweinezüchter,in",2
+"1295","Netzwerktechniker,in",5
+"1296","Dokumentationsassistent,in",5
+"1297","Tierwirt,in",1
+"1298","Verwalter,in in der Land- und Tierwirtschaft",1
+"1299","Verwaltungsbeamter,beamtin Innere",2
+"1300","Sozialversicherungskaufmann,frau",2
+"1301","Industrie-Designer,in",5
+"1302","Familienhelfer,in",2
+"1303","Gastronomieangestellte,r",4
+"1304","Schulhausmeister,in",4
+"1305","Technische,r Betriebsleiter,in",3
+"1306","Kurierfahrer,in",4
+"1307","Sonstige Berufe in der Lebensmittelherstellung",1
+"1308","Fahrlehrer,in",9
+"1309","Berufsbetreuer,in",1
+"1310","Prüfingenieur,in TÜV",2
+"1311","Pharmaberater,in",1
+"1312","Karosserie- und Fahrzeugbauer,in",2
+"1313","Psychiatriepfleger,in",2
+"1314","REFA-Fachkraft",1
+"1315","Banksachbearbeiter,in",4
+"1316","Industriekeramiker,in",2
+"1317","Schmelzschweißer,in",5
+"1318","Güteprüfer,in",5
+"1319","Hundepfleger,in",3
+"1320","Bandarbeiter,in",8
+"1321","Möbelmonteur,in",2
+"1322","Student,in (Kommunikation)",7
+"1323","Zerspanungstechniker,in",2
+"1324","Briefzusteller,in",3
+"1325","Verkaufsstellenverwalter,in",1
+"1326","Hotelmanager,in",6
+"1327","Signalmechaniker,in",3
+"1328","Ingenieurassistent,in Elektrotechnik",8
+"1329","Städtische,r Angestellte,r",2
+"1330","Diplom-Agraringenieur,in",3
+"1331","Heizungs- Lüftungs- und Klimatechniker,in",3
+"1332","Schwimmmeistergehilfe,gehilfin",2
+"1333","Krankengymnast,in",1
+"1334","Werkzeugmechaniker,in Formentechnik",1
+"1335","Bundeswehrbedienstete,r",1
+"1336","Hochofenbeschicker,in",1
+"1337","Technische,r Berater,in",2
+"1338","Messebauer,in",7
+"1339","Ingenieurassistent,in Kosmetologie",4
+"1340","Laboringenieur,in",3
+"1341","Diplom-Ingenieur,in Architektur",7
+"1342","Werbeberater,in",6
+"1343","Diplom-Bibliothekar,in öffentliche Bibliotheken",2
+"1344","Bürokraft",3
+"1345","Fitnessstudioleiter,in",1
+"1346","Baumaschinist,in",4
+"1347","Garten- und Landschaftsbauhelfer,in",2
+"1348","Touristikfachwirt,in",2
+"1349","Wassermeister,in",3
+"1350","Außenhandelskauffrau,mann",6
+"1351","Siebdrucker,in",5
+"1352","Technische,r Autor,in",2
+"1353","Neurochirurg,in",2
+"1354","Qualitätssicherer,in",10
+"1355","Offsetdrucker,in",2
+"1356","Diplom-Übersetzer,in",3
+"1357","Eisenflechter,in",2
+"1358","EDV-Ingenieur,in",3
+"1359","Papiermacher,in",5
+"1360","Fahrzeugpfleger,in",2
+"1361","Student,in (Mechatronik)",1
+"1362","Metallbearbeiter,in",2
+"1363","Versuchsingenieur,in",9
+"1364","Frauenarzt,ärztin",1
+"1365","Landschaftsgärtnermeister,in",2
+"1366","Diplom-Ingenieur,in Biotechnologie",1
+"1367","Abwasserentsorger,in",2
+"1368","Justizangestellte,r",2
+"1369","Zugbegleiter,in",2
+"1370","U-Bahnfahrer,in",2
+"1371","Kaufmann,frau Grundstücke",2
+"1372","Sparkassenangestellte,r",2
+"1373","Patentingenieur,in",2
+"1374","Emaillierer,in, Feuerverzinker,in Metalloberflächen",2
+"1375","Diplom-Ingenieur,in Wirtschaft",4
+"1376","Bahnangestellte,r",3
+"1377","Inbetriebnahmeingenieur,in",5
+"1378","Gaststätteninhaber,in",2
+"1379","Hotel- Gaststätten- und Fremdenverkehrassistent,in",1
+"1380","Pensionsinhaber,in",1
+"1381","Wasserbauingenieur,in",2
+"1382","Fährmann,frau",2
+"1383","Prüffeldmonteur,in",5
+"1384","Schiffbauingenieur,in",6
+"1385","Kaufmann,frau Datenverarbeitung",4
+"1386","Justizvollzugsdienstbeamter,beamtin",6
+"1387","Beamter,Beamtin Justizvollzugsdienst",4
+"1388","Oecotrophologe,Oecotrophologin",3
+"1389","Diplom-Grafiker,in",3
+"1390","Maler,in und Anstreicher,in",2
+"1391","Musikproduzent,in",1
+"1392","Diplom-Sozialwirt,in",2
+"1393","Rechtsanwalt,anwältin und Notar,in",8
+"1394","Rechtsanwalts- und Notargehilfe,in",2
+"1395","Kaufmann,frau Versicherung",7
+"1396","Ener",1
+"1397","Energietechniker,in",3
+"1398","Werbetexter,in",3
+"1399","Energietechnik",1
+"1400","Suchtkrankenberater,in",4
+"1401","Ver- und Entsorger,in",3
+"1402","Justitiar,in",3
+"1403","Fachkraft (EDV)",5
+"1404","Kulturwissenschaftler,in",1
+"1405","Müllwerker,in",2
+"1406","Schweißfachmann,frau",3
+"1407","Landschaftsgartenbauer,in",2
+"1408","Rechtsanwaltangestellte,r",3
+"1409","Gastronomieleiter,in",3
+"1410","Orthopädiemechaniker,in und Bandagist,in",3
+"1411","Montierer,in",4
+"1412","Student,in (Media Producer)",7
+"1413","Anwendungstechnikingenieur,in",5
+"1414","Rohrnetzmonteur,in",2
+"1415","Student,in (Rechtswissenschaften)l/",1
+"1416","Zollverwaltungsbeamter,beamtin mittlerer Dienst",2
+"1417","Diplom-Verwaltungsfachwirt,in",3
+"1418","Diplom-Immobilienwirt,in",2
+"1419","Gärtner,in, Gartenarbeiter,in",2
+"1420","Fuhrparkleiter,in",1
+"1421","Betriebsberater,in",4
+"1422","Tierarzt, ärztin (Landtierarzt, Großtierpraxis)",1
+"1423","Richter,in, Staats-, Amtsanwälte,anwältinnen",2
+"1424","Luftfahrtingenieur,in",2
+"1425","Einkaufsassistent,in",2
+"1426","Eiscremehersteller,in",1
+"1427","Polizeivollzugsbeamter,beamtin Bundesgrenzschutz",4
+"1428","Bauhelfer,in",7
+"1429","Zugführer,in",2
+"1430","Gymnasiallehrer,in",3
+"1431","Ausbilder,in, gewerblich",3
+"1432","Fachkaufmann,frau Marketing",2
+"1433","Auszubildende,r (Verwaltungsfachangestellte,r)",2
+"1434","Bundesbahnverwaltungsangestellte,r",3
+"1435","Bundesbahnangestellte,r",1
+"1436","Bundesgrenzschutzverwaltungsangestellte,r",1
+"1437","Bundeswehrverwaltungsangestellte,r",1
+"1438","Bibliotheksangestellte,r",1
+"1439","Assistent,in Automatisierungstechnik",2
+"1440","Fitness-Trainer,in",1
+"1441","Systemtechniker,in",2
+"1442","Straßenbaufacharbeiter,in",2
+"1443","Hörgeräteakustikermeister,in",4
+"1444","Musikerzieher,in",7
+"1445","Diplom-Vermessungsingenieur,in",4
+"1446","Produktionstechniker,in",3
+"1447","Fachkraft für Fluggastabfertigung",3
+"1448","Musiker,in (Solist oder freiberuflich)",3
+"1449","Gerichtsvollzieher,in",5
+"1450","Autosattler,in",5
+"1451","Diplom-Biochemiker,in",3
+"1452","Bankrevisor,in",2
+"1453","Empfangssekretär,in",3
+"1454","Diplom-Chemiker,in",3
+"1455","Geprüfte,r Wirtschaftsinformatiker,in",4
+"1456","Chemie-Verfahrensingenieur,in",2
+"1457","Diplom-Ingenieur,in Versorgungstechnik",2
+"1458","Politikwissenschaftler,in",4
+"1459","Vorstand",2
+"1460","Konstruktionsmechaniker,in",9
+"1461","Taxator,in",1
+"1462","Mitarbeiter,in Bahn Rangierdienst",1
+"1463","Chemischreiniger,in",1
+"1464","Kraftfahrzeugingenieur,in",2
+"1465","Beamter,Beamtin Gewerbeaufsichtsverwaltung",2
+"1466","Erprobungsingenieur,in",1
+"1467","Diplom-Informatiker,in allg. Informatik",3
+"1468","Bauelementemonteur,in",1
+"1469","Geschäftsinhaber,in",1
+"1470","Vertreter,in",4
+"1471","Sicherheitsingenieur,in",2
+"1472","Ober",1
+"1473","Fernsehjournalist,in",6
+"1474","Destillateur,in",4
+"1475","Garten- und Landschaftsarchitekt,in",2
+"1476","Justizsekretäranwärter,in",1
+"1477","Gesundheitsaufseher,in",1
+"1478","Konservierer,in",3
+"1479","Schichtführer,in",3
+"1480","Schiffsbetriebsoffizier,in",4
+"1481","Kaufmann,frau Bank",1
+"1482","Textilkaufmann,frau",2
+"1483","Reinigungsfrau",2
+"1484","Bürohilfe",1
+"1485","Abschleppwagenfahrer,in",4
+"1486","Versicherungsmathematiker,in",4
+"1487","Diplom-Wirtschaftsmathematiker,in",2
+"1488","Medizinisch-technische,r Assistent,in",2
+"1489","Kältetechniker,in",2
+"1490","Pharmazeut,in",5
+"1491","Statistiker,in",2
+"1492","Student,in (Systems Engineering)",1
+"1493","Student,in (Literaturwissenschaft)",6
+"1494","Student,in (Game Design)",1
+"1495","Computer-Techniker,in",2
+"1496","Parfümeriefachverkäufer,in",3
+"1497","Verwaltungsleiter,in",2
+"1498","Diplom-Physiker,in",5
+"1499","Bedienung",2
+"1500","Servierer,in",7
+"1501","Bauklempner,in",1
+"1502","Zerspaner,in",6
+"1503","Steward,Stewardess",1
+"1504","Motorenschlosser,in",4
+"1505","Unternehmer,in, Geschäftsführer,in",2
+"1506","Holzbauer,in",2
+"1507","Gebäudereiniger,in, Raumpfleger,in",1
+"1508","Schaufensterdekorateur,in",3
+"1509","Autowäscher,in",1
+"1510","Abbrucharbeiter,in",2
+"1511","Tier-, Pferde-, Fischwirt,in",3
+"1512","Heizungsinstallateur,in",4
+"1513","Gästebetreuer,in",4
+"1514","Federnreiniger,in",1
+"1515","Technische,r Einkäufer,in",3
+"1516","Kardiologe,Kardiologin",3
+"1517","Vermittler,in",3
+"1518","Damenschneider,in",3
+"1519","Beamter,Beamtin Verwaltung bei Ländern",5
+"1520","Maler,in und Tapezierer,in",3
+"1521","Schulassistent,in",1
+"1522","Buchbinder,in",2
+"1523","Mülllader,in",2
+"1524","Erdbaugeräteführer,in",2
+"1525","Dolmetscher,in, Übersetzer,in",1
+"1526","Fliesenlegermeister,in",2
+"1527","Metallpolierer,in",2
+"1528","Estrichleger,in",2
+"1529","Kommunikationselektroniker,in Informationstechnik",2
+"1530","Floristikfacharbeiter,in",2
+"1531","Beikoch,köchin",2
+"1532","Schulungsleiter,in",1
+"1533","Maschinenbaumeister,in",2
+"1534","Jugendheimerzieher,in",8
+"1535","Diplom-Sozialökonom,Sozialökonomin",4
+"1536","Elektroinstallateurmeister,in",2
+"1537","Fachlehrer,in",1
+"1538","Fachbereichsleiter,in",3
+"1539","Verkaufsassistent,in",2
+"1540","Krankenpflegehelferschüler,in",5
+"1541","Regionalleiter,in",5
+"1542","Holztechnikingenieur,in",2
+"1543","Gemeindeangestellte,r",2
+"1544","Tiefbauingenieur,in",6
+"1545","Müllarbeiter,in",2
+"1546","Ausbildungsleiter,in",2
+"1547","Fliesenhändler,in",1
+"1548","Ladenbauer,in",1
+"1549","Regierungssekretär,in",3
+"1550","Bundesgrenzschutzbeamte,r ohne besondere Gefahren",2
+"1551","Werbefachmann,frau",2
+"1552","Molekularbiologe,biologin",2
+"1553","Filmemacher,in",2
+"1554","Prüfer,in",3
+"1555","Studienberater,in",2
+"1556","Elektrikermeister,in",3
+"1557","Küchenkraft",2
+"1558","Lagerversandarbeiter,in",2
+"1559","Marktforscher,in",2
+"1560","Assistent,in Ingenieur Maschinenbautechnik",4
+"1561","Auszubildende,r (Zahnmedizinische,r Fachangestellte,r)",2
+"1562","Marktbeobachter,in",2
+"1563","Gebäudereiniger,in",3
+"1564","Briefträger,in",2
+"1565","Baumpfleger,in",3
+"1566","Systemprogrammierer,in",2
+"1567","Diplom-Ingenieur,in Wirtschaftsingenieurwesen",1
+"1568","Diplom-Sportlehrer,in",5
+"1569","Hochschullehrer,in",2
+"1570","Textildrucker,in",1
+"1571","Luft- und Raumfahrtingenieur,in",2
+"1572","Baggerführer,in",2
+"1573","Baggerfahrer,in",2
+"1574","Heizungsbaumeister,in",2
+"1575","Altenbetreuer,in",1
+"1576","Gerüstmonteur,in",3
+"1577","Barkeeper,in",1
+"1578","Biotechnologe, Biotechnologin",2
+"1579","Baugeräteführer,in",2
+"1580","Wachschutz",2
+"1581","Hundeführer,in",3
+"1582","Tierlehrer,in",2
+"1583","Sicherungsposten",2
+"1584","Autor,in",4
+"1585","Konstruktionsleiter,in",2
+"1586","Friedhofsgärtner,in",2
+"1587","Lüftungsmonteur,in",1
+"1588","Versorgungsingenieur,in",2
+"1589","Wirtschaftskaufmann,frau",2
+"1590","Fluggeräteabfertiger,in",2
+"1591","Textilarbeiter,in",2
+"1592","Wehrdienstleistende, r (FWDL) ohne Ausbildung",1
+"1593","Kernbohrer,in",5
+"1594","Bohrer,in",1
+"1595","Restaurantleiter,in",9
+"1596","Anästhesiepfleger,in",2
+"1597","Sportmediziner,in",2
+"1598","Computer Operator",1
+"1599","Bekleidungstechnische,r Assistent,in",2
+"1600","Pianist,in",5
+"1601","Konzertpianist,in",1
+"1602","Assistent,in kaufmännisch Datenverarbeitung",1
+"1603","Werksicherheitsdienst",3
+"1604","Instandhaltungsmonteur,in",1
+"1605","Filialdirektor,in",1
+"1606","Restaurantkellner,in",1
+"1607","Fachgehilfen (steuer- und wirtschaftsberatende Berufe)",3
+"1608","Beamter,Beamtin Steuerverwaltung",5
+"1609","Treppenbauer,in",2
+"1610","Hundefriseur,in",3
+"1611","Schlachtermeister,in",3
+"1612","Kanalfacharbeiter,in",4
+"1613","Diplom-Volkswirt,in",2
+"1614","Wirtschaftswissenschaftler,in",1
